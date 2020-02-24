@@ -50,389 +50,389 @@ dns:
     - tls://dns.google:853
   cfw-latency-timeout: 5000
 Proxy:
-  - name: 熊猫 腾讯云🇭🇰1
+  - name: 熊猫 腾讯云HK1
     server: 150.109.106.21
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 腾讯云🇭🇰2
+  - name: 熊猫 腾讯云HK2
     server: 150.109.105.78
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 腾讯云🇭🇰3
+  - name: 熊猫 腾讯云HK3
     server: 150.109.106.76
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 腾讯云🇭🇰4
+  - name: 熊猫 腾讯云HK4
     server: 150.109.106.190
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 腾讯云🇭🇰5
+  - name: 熊猫 腾讯云HK5
     server: 150.109.106.198
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 腾讯云🇭🇰6
+  - name: 熊猫 腾讯云HK6
     server: 150.109.42.204
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 腾讯云🇭🇰7
+  - name: 熊猫 腾讯云HK7
     server: 150.109.55.241
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 腾讯云🇭🇰8
+  - name: 熊猫 腾讯云HK8
     server: 150.109.104.57
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
     _index: 7
-  - name: 熊猫 腾讯云🇭🇰9
+  - name: 熊猫 腾讯云HK9
     server: 150.109.103.37
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 腾讯云🇭🇰10
+  - name: 熊猫 腾讯云HK10
     server: 150.109.100.188
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 腾讯云🇭🇰11
+  - name: 熊猫 腾讯云HK11
     server: 150.109.104.235
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 北京中转1🇭🇰
+  - name: 熊猫 北京中转1HK
     server: 49.232.228.126
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 北京中转2🇭🇰
+  - name: 熊猫 北京中转2HK
     server: 49.232.227.201
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 北京中转3🇭🇰
+  - name: 熊猫 北京中转3HK
     server: 49.232.228.45
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 北京中转4🇭🇰
+  - name: 熊猫 北京中转4HK
     server: 49.232.228.166
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 北京中转5🇭🇰
+  - name: 熊猫 北京中转5HK
     server: 49.232.227.163
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 北京中转6🇭🇰
+  - name: 熊猫 北京中转6HK
     server: 49.232.225.138
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
     _index: 10
-  - name: 熊猫 广东中转7🇭🇰
+  - name: 熊猫 广东中转7HK
     type: ss
     server: 106.52.38.146
     port: 8888
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 广东中转8🇭🇰
+  - name: 熊猫 广东中转8HK
     type: ss
     server: 111.230.145.78
     port: 8888
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 广东中转9🇭🇰
+  - name: 熊猫 广东中转9HK
     type: ss
     server: 111.230.146.176
     port: 8888
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 广东中转10🇭🇰
+  - name: 熊猫 广东中转10HK
     type: ss
     server: 111.231.247.236
     port: 8888
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 广东中转11🇭🇰
+  - name: 熊猫 广东中转11HK
     type: ss
     server: 39.108.91.56
     port: 8888
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 广东中转12🇭🇰
+  - name: 熊猫 广东中转12HK
     type: ss
     server: 39.108.81.37
     port: 8888
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 上海中转13🇭🇰
+  - name: 熊猫 上海中转13HK
     server: 106.54.177.250
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 上海中转14🇭🇰
+  - name: 熊猫 上海中转14HK
     server: 106.52.33.238
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 上海中转15🇭🇰
+  - name: 熊猫 上海中转15HK
     type: ss
     server: 106.54.170.11
     port: 8888
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 上海中转16🇭🇰
+  - name: 熊猫 上海中转16HK
     server: 111.231.85.99
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 上海中转17🇭🇰
+  - name: 熊猫 上海中转17HK
     server: 106.54.178.48
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 上海中转18🇭🇰
+  - name: 熊猫 上海中转18HK
     server: 106.54.179.124
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 上海中转19🇭🇰
+  - name: 熊猫 上海中转19HK
     server: 106.54.178.127
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 成都中转20🇭🇰
+  - name: 熊猫 成都中转20HK
     server: 111.231.192.96
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
     _index: 24
-  - name: 熊猫 成都中转21🇭🇰
+  - name: 熊猫 成都中转21HK
     server: 111.231.205.33
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 成都中转22🇭🇰
+  - name: 熊猫 成都中转22HK
     server: 111.231.197.111
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 成都中转23🇭🇰
+  - name: 熊猫 成都中转23HK
     server: 118.126.117.45
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 成都中转24🇭🇰
+  - name: 熊猫 成都中转24HK
     server: 118.126.114.10
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 成都中转25🇭🇰
+  - name: 熊猫 成都中转25HK
     server: 119.27.173.226
     port: 8888
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 北京中转1🇰🇷
+  - name: 熊猫 北京中转1KR
     server: 49.232.228.126
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 北京中转2🇰🇷
+  - name: 熊猫 北京中转2KR
     server: 49.232.227.201
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 北京中转3🇰🇷
+  - name: 熊猫 北京中转3KR
     server: 49.232.228.45
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 北京中转4🇰🇷
+  - name: 熊猫 北京中转4KR
     server: 49.232.228.166
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 北京中转5🇰🇷
+  - name: 熊猫 北京中转5KR
     server: 49.232.227.163
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 北京中转6🇰🇷
+  - name: 熊猫 北京中转6KR
     server: 49.232.225.138
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 广东中转7🇰🇷
+  - name: 熊猫 广东中转7KR
     server: 106.52.38.146
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 广东中转8🇰🇷
+  - name: 熊猫 广东中转8KR
     server: 111.230.145.78
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 广东中转9🇰🇷
+  - name: 熊猫 广东中转9KR
     server: 111.230.146.176
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 广东中转10🇰🇷
+  - name: 熊猫 广东中转10KR
     server: 111.231.247.236
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 广东中转11🇰🇷
+  - name: 熊猫 广东中转11KR
     server: 39.108.91.56
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 广东中转12🇰🇷
+  - name: 熊猫 广东中转12KR
     server: 39.108.81.37
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 上海中转13🇰🇷
+  - name: 熊猫 上海中转13KR
     server: 106.54.177.250
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
     _index: 42
-  - name: 熊猫 上海中转14🇰🇷
+  - name: 熊猫 上海中转14KR
     server: 106.52.33.238
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 上海中转15🇰🇷
+  - name: 熊猫 上海中转15KR
     server: 106.54.170.11
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 上海中转16🇰🇷
+  - name: 熊猫 上海中转16KR
     server: 111.231.85.99
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 上海中转17🇰🇷
+  - name: 熊猫 上海中转17KR
     server: 106.54.178.48
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 上海中转18🇰🇷
+  - name: 熊猫 上海中转18KR
     server: 106.54.179.124
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 上海中转19🇰🇷
+  - name: 熊猫 上海中转19KR
     server: 106.54.178.127
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 成都中转20🇰🇷
+  - name: 熊猫 成都中转20KR
     server: 111.231.192.96
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 成都中转21🇰🇷
+  - name: 熊猫 成都中转21KR
     server: 111.231.205.33
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 成都中转22🇰🇷
+  - name: 熊猫 成都中转22KR
     server: 111.231.197.111
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 成都中转23🇰🇷
+  - name: 熊猫 成都中转23KR
     server: 118.126.117.45
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 成都中转24🇰🇷
+  - name: 熊猫 成都中转24KR
     server: 118.126.114.10
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 熊猫 成都中转25🇰🇷
+  - name: 熊猫 成都中转25KR
     server: 119.27.173.226
     port: 2020
     type: ss
     cipher: rc4-md5
     password: Xiongmao@^ios.ss
-  - name: 闪电加速器 🇭🇰
+  - name: 闪电加速器 HK
     server: p4.22332e.com
     port: 8333
     type: ss
     cipher: rc4-md5
     password: passfw2xs4e!
-  - name: 闪电加速器 🇹🇼
+  - name: 闪电加速器 TW
     server: p5.22332e.com
     port: 8333
     type: ss
     cipher: rc4-md5
     password: passfw2xs4e!
-  - name: Google Cloud🇹🇼
+  - name: Google CloudTW
     server: qv.qkmovie.tk
     port: 443
     type: vmess
@@ -444,7 +444,7 @@ Proxy:
     ws-path: /fs
     ws-headers:
       Host: qv.qkmovie.tk
-  - name: 🇺🇲 洛杉矶(一)🇺🇸
+  - name: 🇺🇲 洛杉矶(一)US
     server: vssr108.qvewww.xyz
     port: 443
     type: vmess
@@ -456,7 +456,7 @@ Proxy:
     ws-path: /v1
     ws-headers:
       Host: vssr108.qvewww.xyz
-  - name: 🇺🇲 洛杉矶(二)🇺🇸
+  - name: 🇺🇲 洛杉矶(二)US
     server: qvr.zhangch.tk
     port: 443
     type: vmess
@@ -468,7 +468,7 @@ Proxy:
     ws-path: /qvr
     ws-headers:
       Host: qvr.zhangch.tk
-  - name: 🇺🇲 芝加哥免费🇺🇸
+  - name: 🇺🇲 芝加哥免费US
     server: vssr.qvewww.xyz
     port: 443
     type: vmess
@@ -480,7 +480,7 @@ Proxy:
     ws-path: /v3
     ws-headers:
       Host: vssr.qvewww.xyz
-  - name: 🇺🇲 芝加哥2免费🇺🇸
+  - name: 🇺🇲 芝加哥2免费US
     server: vssr160.qvewww.xyz
     port: 443
     type: vmess
@@ -492,7 +492,7 @@ Proxy:
     ws-path: /v2
     ws-headers:
       Host: vssr160.qvewww.xyz
-  - name: 免费🇸🇬
+  - name: 免费SG
     server: freemv123.tk
     port: 443
     type: vmess
@@ -504,7 +504,7 @@ Proxy:
     ws-path: /mv
     ws-headers:
       Host: freemv123.tk
-  - name: 旋风 PegTech 🇺🇸
+  - name: 旋风 PegTech US
     server: 104.233.230.226
     port: 443
     type: vmess
@@ -516,7 +516,7 @@ Proxy:
     ws-path: /footers
     ws-headers:
       Host: 104.233.230.226
-  - name: 自抓 🇺🇸
+  - name: 自抓 US
     server: us2v.thewahoo.xyz
     port: 443
     type: vmess
@@ -524,7 +524,7 @@ Proxy:
     alterId: 16
     cipher: auto
     tls: true
-  - name: 自抓 🇯🇵
+  - name: 自抓 JP
     server: jp3.z1x2c3.site
     port: 443
     type: vmess
@@ -532,7 +532,7 @@ Proxy:
     alterId: 16
     cipher: auto
     tls: true
-  - name: 自建virmach 🇺🇸
+  - name: 自建virmach US
     server: tls.xieshang.tk
     port: 443
     type: vmess
@@ -544,7 +544,7 @@ Proxy:
     ws-path: /879d99d0/
     ws-headers:
       Host: tls.xieshang.tk
-  - name: 自建aws 🇺🇸
+  - name: 自建aws US
     server: aws.xieshang.tk
     port: 443
     type: vmess
@@ -571,80 +571,80 @@ Proxy Group:
       - ✈ 手动选择
       - ✈ 延迟最低
       - ✈ 故障切换
-      - 熊猫 腾讯云🇭🇰1
-      - 熊猫 腾讯云🇭🇰2
-      - 熊猫 腾讯云🇭🇰3
-      - 熊猫 腾讯云🇭🇰4
-      - 熊猫 腾讯云🇭🇰5
-      - 熊猫 腾讯云🇭🇰6
-      - 熊猫 腾讯云🇭🇰7
-      - 熊猫 腾讯云🇭🇰8
-      - 熊猫 腾讯云🇭🇰9
-      - 熊猫 腾讯云🇭🇰10
-      - 熊猫 腾讯云🇭🇰11
-      - 熊猫 北京中转1🇭🇰
-      - 熊猫 北京中转2🇭🇰
-      - 熊猫 北京中转3🇭🇰
-      - 熊猫 北京中转4🇭🇰
-      - 熊猫 北京中转5🇭🇰
-      - 熊猫 北京中转6🇭🇰
-      - 熊猫 广东中转7🇭🇰
-      - 熊猫 广东中转8🇭🇰
-      - 熊猫 广东中转9🇭🇰
-      - 熊猫 广东中转10🇭🇰
-      - 熊猫 广东中转11🇭🇰
-      - 熊猫 广东中转12🇭🇰
-      - 熊猫 上海中转13🇭🇰
-      - 熊猫 上海中转14🇭🇰
-      - 熊猫 上海中转15🇭🇰
-      - 熊猫 上海中转16🇭🇰
-      - 熊猫 上海中转17🇭🇰
-      - 熊猫 上海中转18🇭🇰
-      - 熊猫 上海中转19🇭🇰
-      - 熊猫 成都中转20🇭🇰
-      - 熊猫 成都中转21🇭🇰
-      - 熊猫 成都中转22🇭🇰
-      - 熊猫 成都中转23🇭🇰
-      - 熊猫 成都中转24🇭🇰
-      - 熊猫 成都中转25🇭🇰
-      - 熊猫 北京中转1🇰🇷
-      - 熊猫 北京中转2🇰🇷
-      - 熊猫 北京中转3🇰🇷
-      - 熊猫 北京中转4🇰🇷
-      - 熊猫 北京中转5🇰🇷
-      - 熊猫 北京中转6🇰🇷
-      - 熊猫 广东中转7🇰🇷
-      - 熊猫 广东中转8🇰🇷
-      - 熊猫 广东中转9🇰🇷
-      - 熊猫 广东中转10🇰🇷
-      - 熊猫 广东中转11🇰🇷
-      - 熊猫 广东中转12🇰🇷
-      - 熊猫 上海中转13🇰🇷
-      - 熊猫 上海中转14🇰🇷
-      - 熊猫 上海中转15🇰🇷
-      - 熊猫 上海中转16🇰🇷
-      - 熊猫 上海中转17🇰🇷
-      - 熊猫 上海中转18🇰🇷
-      - 熊猫 上海中转19🇰🇷
-      - 熊猫 成都中转20🇰🇷
-      - 熊猫 成都中转21🇰🇷
-      - 熊猫 成都中转22🇰🇷
-      - 熊猫 成都中转23🇰🇷
-      - 熊猫 成都中转24🇰🇷
-      - 熊猫 成都中转25🇰🇷
-      - 闪电加速器 🇭🇰
-      - 闪电加速器 🇹🇼
-      - Google Cloud🇹🇼
-      - 🇺🇲 洛杉矶(一)🇺🇸
-      - 🇺🇲 洛杉矶(二)🇺🇸
-      - 🇺🇲 芝加哥免费🇺🇸
-      - 🇺🇲 芝加哥2免费🇺🇸
-      - 免费🇸🇬
-      - 旋风 PegTech 🇺🇸
-      - 自抓 🇺🇸
-      - 自抓 🇯🇵
-      - 自建virmach 🇺🇸
-      - 自建aws 🇺🇸
+      - 熊猫 腾讯云HK1
+      - 熊猫 腾讯云HK2
+      - 熊猫 腾讯云HK3
+      - 熊猫 腾讯云HK4
+      - 熊猫 腾讯云HK5
+      - 熊猫 腾讯云HK6
+      - 熊猫 腾讯云HK7
+      - 熊猫 腾讯云HK8
+      - 熊猫 腾讯云HK9
+      - 熊猫 腾讯云HK10
+      - 熊猫 腾讯云HK11
+      - 熊猫 北京中转1HK
+      - 熊猫 北京中转2HK
+      - 熊猫 北京中转3HK
+      - 熊猫 北京中转4HK
+      - 熊猫 北京中转5HK
+      - 熊猫 北京中转6HK
+      - 熊猫 广东中转7HK
+      - 熊猫 广东中转8HK
+      - 熊猫 广东中转9HK
+      - 熊猫 广东中转10HK
+      - 熊猫 广东中转11HK
+      - 熊猫 广东中转12HK
+      - 熊猫 上海中转13HK
+      - 熊猫 上海中转14HK
+      - 熊猫 上海中转15HK
+      - 熊猫 上海中转16HK
+      - 熊猫 上海中转17HK
+      - 熊猫 上海中转18HK
+      - 熊猫 上海中转19HK
+      - 熊猫 成都中转20HK
+      - 熊猫 成都中转21HK
+      - 熊猫 成都中转22HK
+      - 熊猫 成都中转23HK
+      - 熊猫 成都中转24HK
+      - 熊猫 成都中转25HK
+      - 熊猫 北京中转1KR
+      - 熊猫 北京中转2KR
+      - 熊猫 北京中转3KR
+      - 熊猫 北京中转4KR
+      - 熊猫 北京中转5KR
+      - 熊猫 北京中转6KR
+      - 熊猫 广东中转7KR
+      - 熊猫 广东中转8KR
+      - 熊猫 广东中转9KR
+      - 熊猫 广东中转10KR
+      - 熊猫 广东中转11KR
+      - 熊猫 广东中转12KR
+      - 熊猫 上海中转13KR
+      - 熊猫 上海中转14KR
+      - 熊猫 上海中转15KR
+      - 熊猫 上海中转16KR
+      - 熊猫 上海中转17KR
+      - 熊猫 上海中转18KR
+      - 熊猫 上海中转19KR
+      - 熊猫 成都中转20KR
+      - 熊猫 成都中转21KR
+      - 熊猫 成都中转22KR
+      - 熊猫 成都中转23KR
+      - 熊猫 成都中转24KR
+      - 熊猫 成都中转25KR
+      - 闪电加速器 HK
+      - 闪电加速器 TW
+      - Google CloudTW
+      - 🇺🇲 洛杉矶(一)US
+      - 🇺🇲 洛杉矶(二)US
+      - 🇺🇲 芝加哥免费US
+      - 🇺🇲 芝加哥2免费US
+      - 免费SG
+      - 旋风 PegTech US
+      - 自抓 US
+      - 自抓 JP
+      - 自建virmach US
+      - 自建aws US
   - name: 📹 YouTube
     type: select
     proxies:
@@ -666,8 +666,8 @@ Proxy Group:
       - ✈ 手动选择
       - ✈ 延迟最低
       - ✈ 故障切换
-      - 闪电加速器 🇹🇼
-      - Google Cloud🇹🇼
+      - 闪电加速器 TW
+      - Google CloudTW
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -706,238 +706,238 @@ Proxy Group:
   - name: ✈ 手动选择
     type: select
     proxies:
-      - 熊猫 腾讯云🇭🇰1
-      - 熊猫 腾讯云🇭🇰2
-      - 熊猫 腾讯云🇭🇰3
-      - 熊猫 腾讯云🇭🇰4
-      - 熊猫 腾讯云🇭🇰5
-      - 熊猫 腾讯云🇭🇰6
-      - 熊猫 腾讯云🇭🇰7
-      - 熊猫 腾讯云🇭🇰8
-      - 熊猫 腾讯云🇭🇰9
-      - 熊猫 腾讯云🇭🇰10
-      - 熊猫 腾讯云🇭🇰11
-      - 熊猫 北京中转1🇭🇰
-      - 熊猫 北京中转2🇭🇰
-      - 熊猫 北京中转3🇭🇰
-      - 熊猫 北京中转4🇭🇰
-      - 熊猫 北京中转5🇭🇰
-      - 熊猫 北京中转6🇭🇰
-      - 熊猫 广东中转7🇭🇰
-      - 熊猫 广东中转8🇭🇰
-      - 熊猫 广东中转9🇭🇰
-      - 熊猫 广东中转10🇭🇰
-      - 熊猫 广东中转11🇭🇰
-      - 熊猫 广东中转12🇭🇰
-      - 熊猫 上海中转13🇭🇰
-      - 熊猫 上海中转14🇭🇰
-      - 熊猫 上海中转15🇭🇰
-      - 熊猫 上海中转16🇭🇰
-      - 熊猫 上海中转17🇭🇰
-      - 熊猫 上海中转18🇭🇰
-      - 熊猫 上海中转19🇭🇰
-      - 熊猫 成都中转20🇭🇰
-      - 熊猫 成都中转21🇭🇰
-      - 熊猫 成都中转22🇭🇰
-      - 熊猫 成都中转23🇭🇰
-      - 熊猫 成都中转24🇭🇰
-      - 熊猫 成都中转25🇭🇰
-      - 熊猫 北京中转1🇰🇷
-      - 熊猫 北京中转2🇰🇷
-      - 熊猫 北京中转3🇰🇷
-      - 熊猫 北京中转4🇰🇷
-      - 熊猫 北京中转5🇰🇷
-      - 熊猫 北京中转6🇰🇷
-      - 熊猫 广东中转7🇰🇷
-      - 熊猫 广东中转8🇰🇷
-      - 熊猫 广东中转9🇰🇷
-      - 熊猫 广东中转10🇰🇷
-      - 熊猫 广东中转11🇰🇷
-      - 熊猫 广东中转12🇰🇷
-      - 熊猫 上海中转13🇰🇷
-      - 熊猫 上海中转14🇰🇷
-      - 熊猫 上海中转15🇰🇷
-      - 熊猫 上海中转16🇰🇷
-      - 熊猫 上海中转17🇰🇷
-      - 熊猫 上海中转18🇰🇷
-      - 熊猫 上海中转19🇰🇷
-      - 熊猫 成都中转20🇰🇷
-      - 熊猫 成都中转21🇰🇷
-      - 熊猫 成都中转22🇰🇷
-      - 熊猫 成都中转23🇰🇷
-      - 熊猫 成都中转24🇰🇷
-      - 熊猫 成都中转25🇰🇷
-      - 闪电加速器 🇭🇰
-      - 闪电加速器 🇹🇼
-      - Google Cloud🇹🇼
-      - 🇺🇲 洛杉矶(一)🇺🇸
-      - 🇺🇲 洛杉矶(二)🇺🇸
-      - 🇺🇲 芝加哥免费🇺🇸
-      - 🇺🇲 芝加哥2免费🇺🇸
-      - 免费🇸🇬
-      - 旋风 PegTech 🇺🇸
-      - 自抓 🇺🇸
-      - 自建virmach 🇺🇸
-      - 自建aws 🇺🇸
-      - 自抓 🇯🇵
+      - 熊猫 腾讯云HK1
+      - 熊猫 腾讯云HK2
+      - 熊猫 腾讯云HK3
+      - 熊猫 腾讯云HK4
+      - 熊猫 腾讯云HK5
+      - 熊猫 腾讯云HK6
+      - 熊猫 腾讯云HK7
+      - 熊猫 腾讯云HK8
+      - 熊猫 腾讯云HK9
+      - 熊猫 腾讯云HK10
+      - 熊猫 腾讯云HK11
+      - 熊猫 北京中转1HK
+      - 熊猫 北京中转2HK
+      - 熊猫 北京中转3HK
+      - 熊猫 北京中转4HK
+      - 熊猫 北京中转5HK
+      - 熊猫 北京中转6HK
+      - 熊猫 广东中转7HK
+      - 熊猫 广东中转8HK
+      - 熊猫 广东中转9HK
+      - 熊猫 广东中转10HK
+      - 熊猫 广东中转11HK
+      - 熊猫 广东中转12HK
+      - 熊猫 上海中转13HK
+      - 熊猫 上海中转14HK
+      - 熊猫 上海中转15HK
+      - 熊猫 上海中转16HK
+      - 熊猫 上海中转17HK
+      - 熊猫 上海中转18HK
+      - 熊猫 上海中转19HK
+      - 熊猫 成都中转20HK
+      - 熊猫 成都中转21HK
+      - 熊猫 成都中转22HK
+      - 熊猫 成都中转23HK
+      - 熊猫 成都中转24HK
+      - 熊猫 成都中转25HK
+      - 熊猫 北京中转1KR
+      - 熊猫 北京中转2KR
+      - 熊猫 北京中转3KR
+      - 熊猫 北京中转4KR
+      - 熊猫 北京中转5KR
+      - 熊猫 北京中转6KR
+      - 熊猫 广东中转7KR
+      - 熊猫 广东中转8KR
+      - 熊猫 广东中转9KR
+      - 熊猫 广东中转10KR
+      - 熊猫 广东中转11KR
+      - 熊猫 广东中转12KR
+      - 熊猫 上海中转13KR
+      - 熊猫 上海中转14KR
+      - 熊猫 上海中转15KR
+      - 熊猫 上海中转16KR
+      - 熊猫 上海中转17KR
+      - 熊猫 上海中转18KR
+      - 熊猫 上海中转19KR
+      - 熊猫 成都中转20KR
+      - 熊猫 成都中转21KR
+      - 熊猫 成都中转22KR
+      - 熊猫 成都中转23KR
+      - 熊猫 成都中转24KR
+      - 熊猫 成都中转25KR
+      - 闪电加速器 HK
+      - 闪电加速器 TW
+      - Google CloudTW
+      - 🇺🇲 洛杉矶(一)US
+      - 🇺🇲 洛杉矶(二)US
+      - 🇺🇲 芝加哥免费US
+      - 🇺🇲 芝加哥2免费US
+      - 免费SG
+      - 旋风 PegTech US
+      - 自抓 US
+      - 自建virmach US
+      - 自建aws US
+      - 自抓 JP
   - name: ✈ 延迟最低
     type: url-test
     url: https://www.google.cn/generate_204
     interval: 500
     proxies:
-      - 熊猫 腾讯云🇭🇰1
-      - 熊猫 腾讯云🇭🇰2
-      - 熊猫 腾讯云🇭🇰3
-      - 熊猫 腾讯云🇭🇰4
-      - 熊猫 腾讯云🇭🇰5
-      - 熊猫 腾讯云🇭🇰6
-      - 熊猫 腾讯云🇭🇰7
-      - 熊猫 腾讯云🇭🇰8
-      - 熊猫 腾讯云🇭🇰9
-      - 熊猫 腾讯云🇭🇰10
-      - 熊猫 腾讯云🇭🇰11
-      - 熊猫 北京中转1🇭🇰
-      - 熊猫 北京中转2🇭🇰
-      - 熊猫 北京中转3🇭🇰
-      - 熊猫 北京中转4🇭🇰
-      - 熊猫 北京中转5🇭🇰
-      - 熊猫 北京中转6🇭🇰
-      - 熊猫 广东中转7🇭🇰
-      - 熊猫 广东中转8🇭🇰
-      - 熊猫 广东中转9🇭🇰
-      - 熊猫 广东中转10🇭🇰
-      - 熊猫 广东中转11🇭🇰
-      - 熊猫 广东中转12🇭🇰
-      - 熊猫 上海中转13🇭🇰
-      - 熊猫 上海中转14🇭🇰
-      - 熊猫 上海中转15🇭🇰
-      - 熊猫 上海中转16🇭🇰
-      - 熊猫 上海中转17🇭🇰
-      - 熊猫 上海中转18🇭🇰
-      - 熊猫 上海中转19🇭🇰
-      - 熊猫 成都中转20🇭🇰
-      - 熊猫 成都中转21🇭🇰
-      - 熊猫 成都中转22🇭🇰
-      - 熊猫 成都中转23🇭🇰
-      - 熊猫 成都中转24🇭🇰
-      - 熊猫 成都中转25🇭🇰
-      - 熊猫 北京中转1🇰🇷
-      - 熊猫 北京中转2🇰🇷
-      - 熊猫 北京中转3🇰🇷
-      - 熊猫 北京中转4🇰🇷
-      - 熊猫 北京中转5🇰🇷
-      - 熊猫 北京中转6🇰🇷
-      - 熊猫 广东中转7🇰🇷
-      - 熊猫 广东中转8🇰🇷
-      - 熊猫 广东中转9🇰🇷
-      - 熊猫 广东中转10🇰🇷
-      - 熊猫 广东中转11🇰🇷
-      - 熊猫 广东中转12🇰🇷
-      - 熊猫 上海中转13🇰🇷
-      - 熊猫 上海中转14🇰🇷
-      - 熊猫 上海中转15🇰🇷
-      - 熊猫 上海中转16🇰🇷
-      - 熊猫 上海中转17🇰🇷
-      - 熊猫 上海中转18🇰🇷
-      - 熊猫 上海中转19🇰🇷
-      - 熊猫 成都中转20🇰🇷
-      - 熊猫 成都中转21🇰🇷
-      - 熊猫 成都中转22🇰🇷
-      - 熊猫 成都中转23🇰🇷
-      - 熊猫 成都中转24🇰🇷
-      - 熊猫 成都中转25🇰🇷
-      - 闪电加速器 🇭🇰
-      - 闪电加速器 🇹🇼
-      - Google Cloud🇹🇼
-      - 🇺🇲 洛杉矶(一)🇺🇸
-      - 🇺🇲 洛杉矶(二)🇺🇸
-      - 🇺🇲 芝加哥免费🇺🇸
-      - 🇺🇲 芝加哥2免费🇺🇸
-      - 免费🇸🇬
-      - 旋风 PegTech 🇺🇸
-      - 自抓 🇺🇸
-      - 自抓 🇯🇵
-      - 自建virmach 🇺🇸
-      - 自建aws 🇺🇸
+      - 熊猫 腾讯云HK1
+      - 熊猫 腾讯云HK2
+      - 熊猫 腾讯云HK3
+      - 熊猫 腾讯云HK4
+      - 熊猫 腾讯云HK5
+      - 熊猫 腾讯云HK6
+      - 熊猫 腾讯云HK7
+      - 熊猫 腾讯云HK8
+      - 熊猫 腾讯云HK9
+      - 熊猫 腾讯云HK10
+      - 熊猫 腾讯云HK11
+      - 熊猫 北京中转1HK
+      - 熊猫 北京中转2HK
+      - 熊猫 北京中转3HK
+      - 熊猫 北京中转4HK
+      - 熊猫 北京中转5HK
+      - 熊猫 北京中转6HK
+      - 熊猫 广东中转7HK
+      - 熊猫 广东中转8HK
+      - 熊猫 广东中转9HK
+      - 熊猫 广东中转10HK
+      - 熊猫 广东中转11HK
+      - 熊猫 广东中转12HK
+      - 熊猫 上海中转13HK
+      - 熊猫 上海中转14HK
+      - 熊猫 上海中转15HK
+      - 熊猫 上海中转16HK
+      - 熊猫 上海中转17HK
+      - 熊猫 上海中转18HK
+      - 熊猫 上海中转19HK
+      - 熊猫 成都中转20HK
+      - 熊猫 成都中转21HK
+      - 熊猫 成都中转22HK
+      - 熊猫 成都中转23HK
+      - 熊猫 成都中转24HK
+      - 熊猫 成都中转25HK
+      - 熊猫 北京中转1KR
+      - 熊猫 北京中转2KR
+      - 熊猫 北京中转3KR
+      - 熊猫 北京中转4KR
+      - 熊猫 北京中转5KR
+      - 熊猫 北京中转6KR
+      - 熊猫 广东中转7KR
+      - 熊猫 广东中转8KR
+      - 熊猫 广东中转9KR
+      - 熊猫 广东中转10KR
+      - 熊猫 广东中转11KR
+      - 熊猫 广东中转12KR
+      - 熊猫 上海中转13KR
+      - 熊猫 上海中转14KR
+      - 熊猫 上海中转15KR
+      - 熊猫 上海中转16KR
+      - 熊猫 上海中转17KR
+      - 熊猫 上海中转18KR
+      - 熊猫 上海中转19KR
+      - 熊猫 成都中转20KR
+      - 熊猫 成都中转21KR
+      - 熊猫 成都中转22KR
+      - 熊猫 成都中转23KR
+      - 熊猫 成都中转24KR
+      - 熊猫 成都中转25KR
+      - 闪电加速器 HK
+      - 闪电加速器 TW
+      - Google CloudTW
+      - 🇺🇲 洛杉矶(一)US
+      - 🇺🇲 洛杉矶(二)US
+      - 🇺🇲 芝加哥免费US
+      - 🇺🇲 芝加哥2免费US
+      - 免费SG
+      - 旋风 PegTech US
+      - 自抓 US
+      - 自抓 JP
+      - 自建virmach US
+      - 自建aws US
   - name: ✈ 故障切换
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 500
     proxies:
-      - 熊猫 腾讯云🇭🇰1
-      - 熊猫 腾讯云🇭🇰2
-      - 熊猫 腾讯云🇭🇰3
-      - 熊猫 腾讯云🇭🇰4
-      - 熊猫 腾讯云🇭🇰5
-      - 熊猫 腾讯云🇭🇰6
-      - 熊猫 腾讯云🇭🇰7
-      - 熊猫 腾讯云🇭🇰8
-      - 熊猫 腾讯云🇭🇰9
-      - 熊猫 腾讯云🇭🇰10
-      - 熊猫 腾讯云🇭🇰11
-      - 熊猫 北京中转1🇭🇰
-      - 熊猫 北京中转2🇭🇰
-      - 熊猫 北京中转3🇭🇰
-      - 熊猫 北京中转4🇭🇰
-      - 熊猫 北京中转5🇭🇰
-      - 熊猫 北京中转6🇭🇰
-      - 熊猫 广东中转7🇭🇰
-      - 熊猫 广东中转8🇭🇰
-      - 熊猫 广东中转9🇭🇰
-      - 熊猫 广东中转10🇭🇰
-      - 熊猫 广东中转11🇭🇰
-      - 熊猫 广东中转12🇭🇰
-      - 熊猫 上海中转13🇭🇰
-      - 熊猫 上海中转14🇭🇰
-      - 熊猫 上海中转15🇭🇰
-      - 熊猫 上海中转16🇭🇰
-      - 熊猫 上海中转17🇭🇰
-      - 熊猫 上海中转18🇭🇰
-      - 熊猫 上海中转19🇭🇰
-      - 熊猫 成都中转20🇭🇰
-      - 熊猫 成都中转21🇭🇰
-      - 熊猫 成都中转22🇭🇰
-      - 熊猫 成都中转23🇭🇰
-      - 熊猫 成都中转24🇭🇰
-      - 熊猫 成都中转25🇭🇰
-      - 熊猫 北京中转1🇰🇷
-      - 熊猫 北京中转2🇰🇷
-      - 熊猫 北京中转3🇰🇷
-      - 熊猫 北京中转4🇰🇷
-      - 熊猫 北京中转5🇰🇷
-      - 熊猫 北京中转6🇰🇷
-      - 熊猫 广东中转7🇰🇷
-      - 熊猫 广东中转8🇰🇷
-      - 熊猫 广东中转9🇰🇷
-      - 熊猫 广东中转10🇰🇷
-      - 熊猫 广东中转11🇰🇷
-      - 熊猫 广东中转12🇰🇷
-      - 熊猫 上海中转13🇰🇷
-      - 熊猫 上海中转14🇰🇷
-      - 熊猫 上海中转15🇰🇷
-      - 熊猫 上海中转16🇰🇷
-      - 熊猫 上海中转17🇰🇷
-      - 熊猫 上海中转18🇰🇷
-      - 熊猫 上海中转19🇰🇷
-      - 熊猫 成都中转20🇰🇷
-      - 熊猫 成都中转21🇰🇷
-      - 熊猫 成都中转22🇰🇷
-      - 熊猫 成都中转23🇰🇷
-      - 熊猫 成都中转24🇰🇷
-      - 熊猫 成都中转25🇰🇷
-      - 闪电加速器 🇭🇰
-      - 闪电加速器 🇹🇼
-      - Google Cloud🇹🇼
-      - 🇺🇲 洛杉矶(一)🇺🇸
-      - 🇺🇲 洛杉矶(二)🇺🇸
-      - 🇺🇲 芝加哥免费🇺🇸
-      - 🇺🇲 芝加哥2免费🇺🇸
-      - 免费🇸🇬
-      - 旋风 PegTech 🇺🇸
-      - 自抓 🇺🇸
-      - 自抓 🇯🇵
-      - 自建virmach 🇺🇸
-      - 自建aws 🇺🇸
+      - 熊猫 腾讯云HK1
+      - 熊猫 腾讯云HK2
+      - 熊猫 腾讯云HK3
+      - 熊猫 腾讯云HK4
+      - 熊猫 腾讯云HK5
+      - 熊猫 腾讯云HK6
+      - 熊猫 腾讯云HK7
+      - 熊猫 腾讯云HK8
+      - 熊猫 腾讯云HK9
+      - 熊猫 腾讯云HK10
+      - 熊猫 腾讯云HK11
+      - 熊猫 北京中转1HK
+      - 熊猫 北京中转2HK
+      - 熊猫 北京中转3HK
+      - 熊猫 北京中转4HK
+      - 熊猫 北京中转5HK
+      - 熊猫 北京中转6HK
+      - 熊猫 广东中转7HK
+      - 熊猫 广东中转8HK
+      - 熊猫 广东中转9HK
+      - 熊猫 广东中转10HK
+      - 熊猫 广东中转11HK
+      - 熊猫 广东中转12HK
+      - 熊猫 上海中转13HK
+      - 熊猫 上海中转14HK
+      - 熊猫 上海中转15HK
+      - 熊猫 上海中转16HK
+      - 熊猫 上海中转17HK
+      - 熊猫 上海中转18HK
+      - 熊猫 上海中转19HK
+      - 熊猫 成都中转20HK
+      - 熊猫 成都中转21HK
+      - 熊猫 成都中转22HK
+      - 熊猫 成都中转23HK
+      - 熊猫 成都中转24HK
+      - 熊猫 成都中转25HK
+      - 熊猫 北京中转1KR
+      - 熊猫 北京中转2KR
+      - 熊猫 北京中转3KR
+      - 熊猫 北京中转4KR
+      - 熊猫 北京中转5KR
+      - 熊猫 北京中转6KR
+      - 熊猫 广东中转7KR
+      - 熊猫 广东中转8KR
+      - 熊猫 广东中转9KR
+      - 熊猫 广东中转10KR
+      - 熊猫 广东中转11KR
+      - 熊猫 广东中转12KR
+      - 熊猫 上海中转13KR
+      - 熊猫 上海中转14KR
+      - 熊猫 上海中转15KR
+      - 熊猫 上海中转16KR
+      - 熊猫 上海中转17KR
+      - 熊猫 上海中转18KR
+      - 熊猫 上海中转19KR
+      - 熊猫 成都中转20KR
+      - 熊猫 成都中转21KR
+      - 熊猫 成都中转22KR
+      - 熊猫 成都中转23KR
+      - 熊猫 成都中转24KR
+      - 熊猫 成都中转25KR
+      - 闪电加速器 HK
+      - 闪电加速器 TW
+      - Google CloudTW
+      - 🇺🇲 洛杉矶(一)US
+      - 🇺🇲 洛杉矶(二)US
+      - 🇺🇲 芝加哥免费US
+      - 🇺🇲 芝加哥2免费US
+      - 免费SG
+      - 旋风 PegTech US
+      - 自抓 US
+      - 自抓 JP
+      - 自建virmach US
+      - 自建aws US
 Rule:
   - DOMAIN-KEYWORD,xukunx,🔰 节点选择
   - DOMAIN,app.adjust.com,DIRECT
